@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #dda6e2;
+}
+.formulario{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: rgb(199, 8, 173);
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 15%;
+  background-color: #e5dee6;
+  padding-left: 5%;
+  padding-top: 55px;
+  padding-bottom: 5%;
+  padding-right: 5%;
+  text-align: center;
+  border-radius: 5%;
+  box-shadow: 5px 5px 5px #fff;
+}
+.login{
+  padding: 15px;
+}
+.senha{
+  padding: 15px;
+}
+.texto{
+  padding: 5px;
+  border-color: #dda6e2;
+  border-radius: 5px;
+}
+.password{
+  padding: 5px;
+  border-color: #dda6e2;
+  border-radius: 5px;
+}
+.botao{
+  padding: 5px;
+  border-radius: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: rgb(199, 8, 173);
+  background-color: #fff;
+  border-color: #dda6e2;
+  font-size: 15px;
+}
